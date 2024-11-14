@@ -9,3 +9,5 @@ Linklerde olan dosyalardan ikisini içeri aktarıp istediğinizi kullanın.<br>
 <b>Reddit'ten u/maisaku18 adlı kullanıcıya teşekkürler. Bu ekolayzırlar onun tarafından yapıldı. Ben sadece dosya haline getirdim.</b>
 
 https://dhrme.squig.link/?share=Samsung_Buds_FE_ANC
+
+![How To](https://raw.githubusercontent.com/ny4rlk0/Samsung-Buds-FE-/refs/heads/main/HowTo.png)
